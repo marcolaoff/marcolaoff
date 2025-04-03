@@ -1,6 +1,5 @@
 ### Olá, me chamo Marco Antônio, 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-lourenci-177339201/)
 
 ![Marcolaoff GitHub stats](https://github-readme-stats.vercel.app/api?username=marcolaoff&theme=midnight-purple&show_icons=true) ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcolaoff&layout=compact)
 
@@ -18,4 +17,6 @@
 
 Atualmente estou frequentando o 5⁰ Semestre de Desenvolvimento de Sotware Multiplaforma na FATEC Itapira e aprendemos sobre sobre HTML, CSS, Bootstrap, PHP em Desenvolvimento Web, Linux em Sistemas, Python em Algoritimos, Java em Técnicas de Programação, SQL em Banco de dados, NoSQL em Banco de Dados Não Relacional e também o aprendizado sobre documentação e engenharia ágil em engenharia de software.
 
+## Entre em contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-lourenci-177339201/)
 
