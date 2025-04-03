@@ -24,7 +24,7 @@ Atualmente estou frequentando o 5⁰ Semestre de Desenvolvimento de Sotware Mult
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malourencisl@gmail.com)
 
 
-## Cursos e conhecimento 
+## Cursos 
 
 - Certificado Front-end Báscico - 2024 - Centro Paula Souza
 - Certificado Python - 2022 - Curso em vídeo
