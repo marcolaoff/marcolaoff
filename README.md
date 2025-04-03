@@ -1,5 +1,7 @@
 ### Olá, me chamo Marco Antônio, 😁
 
+- Atualmente estudando JAVA
+- Cursando Desenvolvimento de Software Multiplataforma - Fatec Itapira
 
 ![Marcolaoff GitHub stats](https://github-readme-stats.vercel.app/api?username=marcolaoff&theme=midnight-purple&show_icons=true) ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcolaoff&layout=compact)
 
@@ -19,4 +21,11 @@ Atualmente estou frequentando o 5⁰ Semestre de Desenvolvimento de Sotware Mult
 
 ## Entre em contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-lourenci-177339201/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malourencisl@gmail.com)
+
+
+## Cursos e conhecimento 
+
+- Certificado Front-end Báscico - 2024 - Centro Paula Souza
+- Certificado Python - 2022 - Curso em vídeo
 
