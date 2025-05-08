@@ -26,6 +26,6 @@ Atualmente estou frequentando o 5⁰ Semestre de Desenvolvimento de Sotware Mult
 
 ## Cursos 
 
-- Certificado Front-end Báscico - 2024 - Centro Paula Souza
+- Certificado Front-end Básico - 2024 - Centro Paula Souza
 - Certificado Python - 2022 - Curso em vídeo
 
